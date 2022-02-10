@@ -1,0 +1,35 @@
+*{padding: 10px;
+margin:10px}
+
+
+
+.navbar{
+    width:100%;
+    display:flex;
+    align-items:center;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+   background-color:  blue;
+    height: 50px;
+    z-index: 1;
+
+
+}
+.head{
+    padding-right: 55%;
+    font-family: cursive;
+}
+
+.link{
+    text-decoration: none;
+    padding-left: 15px;
+    color: black;
+    padding-right: 15px;
+}
+.login{
+
+    padding-left:20%;
+    border: blue;
+}
